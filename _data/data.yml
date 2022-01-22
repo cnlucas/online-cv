@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Corinne Lucas
-    tagline: Software Developer
+    tagline: Financial Management Analyst/ Software Developer
     avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,6 @@ sidebar:
     phone: (317) 670-5944
     website: cnlucas.github.io/online-cv/ #do not add http://
     github: cnlucas
-    pdf: <a href="https://raw.githubusercontent.com/cnlucas/resume/main/CV-MC.pdf">Resume</a> 
 
     languages:
       - idiom: Python
@@ -34,6 +33,7 @@ career-profile:
       A conscientious and diligent FEC team member with a strong technical background 
       known for superior attention to detail, outstanding customer service, effective 
       communication and problem-solving skills, and a passion for learning. 
+      <a href="https://raw.githubusercontent.com/cnlucas/resume/main/CV-MC.pdf">Resume</a> 
 education:
     - degree: BSPA in Policy Analysis
       university: Indiana University
