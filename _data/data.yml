@@ -8,185 +8,88 @@ sidebar:
 
     # Profile information
     name: Corinne Lucas
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Software Developer
+    avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: corinnelucas12@gmail.com
+    phone: (317) 670-5944
+    website: cnlucas.github.io/online-cv/ #do not add http://
+    github: cnlucas
+    pdf: <a href="https://raw.githubusercontent.com/cnlucas/resume/main/CV-MC.pdf">Resume</a> 
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Python
+        level: Intermediate
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - idiom: VBA
+        level: Intermediate
+       
+      - idiom: Javascript
+        level: Novice
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A conscientious and diligent FEC team member with a strong technical background 
+      known for superior attention to detail, outstanding customer service, effective 
+      communication and problem-solving skills, and a passion for learning. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSPA in Policy Analysis
+      university: Indiana University
+      time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        School of Public and Environmental Affairs (Honors)     
+        major: Policy Analysis        minor: Information Systems
+        Cumulative GPA: 3.9/4.0       major GPA: 3.96/4.0
+          - Honors Managing Information Technology
+          - Technology in Public Affairs  
+          - Data Science in Public Affairs
+          - Database Management Systems
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Financial Management Analyst
+      time: 2020 - Present
+      company: Federal Election Commission
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Create detailed manuals on diverse financial processes and improve these processes by leveraging technical skills
+        - Develop and interpret strategies and policies on delivery of services throughout the agency like when facilitating all of the PBC samples for the fiscal year 2021 audit cycle
+        - Write reusable, efficient Python code to automate portions of analysts’ reconciliation processes using open-source packages
+        - Complete and track weekly, monthly, and quarterly financial statement reconciliations, journal vouchers, fine and payment and webinar sheets, and footnotes
+        - Improved an overdue small purchase card budget process and assumed duties as A/OPC for the organization
+        - Act as liaison with our federal shared service provider, resolving issues, providing and approving transmittals for processing 
+        - While prioritizing my work in finance, meeting all deadlines, and exceeding expectations, I research and evaluate new applications of software technologies 
+        - Trained newer financial management analysts on current processes and further developed our procedure documentation
+    - role: Software Developer
+      time: 2021 - Present
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+        - Followed through with an enhancement involving changing the committees datatable default sort to its conclusion, which included making API changes, writing code across the CMS and OpenFEC repos, and building automated testing
+        - Led and collaborated with the other developers and the content team as sprint facilitator for two separate sprints
+        - Completed a production deployment and attended many meetings of the team, learning about Agile project management and the software development lifecycle
+        - Resolved 18 tickets in Github for the website team, including front-end, database, research, and security issues
+        - Collaborated with UI/UX design, content, and management teams to ensure my code design is user-centered and consistent with both internal and external FEC policies 
+        - Submitted 13 pull requests which included creating or editing javascript, python, SQL, handlebars, and jinja files
+        - Reviewed three other team members’ pull requests, completing thorough testing of applications on my local setup environments to ensure systems quality and functionality
+        - Improved DevOps practices by improving the CI/CD pipeline
+    - role: Senior Campaign Finance Analyst
+      time: 2018 - 2020
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        - Wrote, debugged, and maintained code for division-wide, financial review enterprise software.
+        - Led a team of three which focused on analyzing and implementing system requirements into application prototypes using Visual Basic and the FEC RESTful API
+        - Led code review and contributed to code written by analysts in other divisions
+        - Used software development platforms such as GitHub to collaborate with members of the development team for fec.gov
+        - Contributed to all stages of the software development lifecycle and managed version control of RAD programs  
+        - Communicated ideas and concepts clearly and concisely when presenting webinars for FECfile users and multiple instances of branch oral presentations, including a technical skills course I created for employee development 
+        - Identified and resolved routine issues or problems relating to software functionality
+        - Delivered technical solutions to upcoming issues to streamline toolbar compatibility with the laptop upgrades, created a step-by-step guide to implement those solutions, and developed a plan to be in-office to help facilitate the transition
+        - Taught more effective methods of data analysis one-on-one and built individualized macroinstructions for large committee assignments
+        - Collaborated closely with managers to ensure new application features increased the thoroughness and efficiency of review and met user needs by practicing user-centered design 
+        - Created user stories from a diverse group of stakeholders to contribute to the Performance Work Statement for a new procurement system
+        - Led system requirement upgrades, assisting with thorough application of technical requirements and recommending strategies to improve IT procedures
+        - Analyzed over 7,000 financial reports for compliance with campaign finance law and established agency policies while meeting tight deadlines
+        - Worked with developers and managers on user acceptance testing for the NextGen team
+        - Provided excellent customer service to over 380 assigned committees including 8 state party committees, helping committees to file complete and accurate financial reports and when necessary corrective and remediation actions
+        - Used software development platforms such as GitHub to collaborate with members of the development team for fec.gov
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
